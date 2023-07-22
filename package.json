@@ -10,7 +10,7 @@
     "test": "vitest",
     "coverage": "vitest run --coverage"
   },
-  "keywords": [],
+  "keywords": ["Amatak","Amatak Business Site","Amatak VueJs","Amatak NodeJs","Amatak ViteJs"],
   "author": "amatak.io",
   "license": "ISC",
   "devDependencies": {

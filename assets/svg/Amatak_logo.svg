@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Amatak_Logo.svg"
+   inkscape:export-filename="G:\My Drive\Businesses\Amatak Holdings\Logo\Amatak_logo.png"
+   inkscape:export-xdpi="267.12747"
+   inkscape:export-ydpi="267.12747"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.6953125"
+     inkscape:cx="291.23595"
+     inkscape:cy="333.66292"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="148.13483"
+       y="222.92135"
+       width="243.05618"
+       height="135.19101"
+       id="rect37616" />
+    <rect
+       x="145.25843"
+       y="152.44944"
+       width="270.38202"
+       height="208.53933"
+       id="rect22186" />
+    <rect
+       x="51.05618"
+       y="140.94382"
+       width="281.88764"
+       height="275.41573"
+       id="rect11657" />
+    <rect
+       x="87.011236"
+       y="111.46067"
+       width="327.91011"
+       height="268.94382"
+       id="rect2835" />
+    <symbol
+       id="StairsUp">
+      <title
+         id="title16249">Stairs Up</title>
+      <path
+         d="m 9,56.5 12,0 0,-10 10,0 0,-10 10,0 0,-10 10,0 0,-10 12,0"
+         style="fill:none;stroke-width:5"
+         id="path16251" />
+      <path
+         d="M 54,45 42,57 m 12,-3 0,-9 -9,0"
+         style="fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         id="path16253" />
+    </symbol>
+    <filter
+       inkscape:label="3D Marble"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="3D warped marble texture"
+       height="1.1812293"
+       y="-0.090614645"
+       width="1.095512"
+       x="-0.04775601"
+       style="color-interpolation-filters:sRGB;"
+       id="filter35092">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result8"
+         id="feGaussianBlur35064" />
+      <feTurbulence
+         seed="50"
+         result="result7"
+         type="turbulence"
+         numOctaves="7"
+         baseFrequency="0.01 0.01"
+         id="feTurbulence35066" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.4 0 "
+         id="feColorMatrix35068" />
+      <feComposite
+         result="result6"
+         in="result5"
+         operator="in"
+         in2="result8"
+         id="feComposite35070" />
+      <feDisplacementMap
+         in="result5"
+         xChannelSelector="A"
+         yChannelSelector="A"
+         scale="100"
+         result="result4"
+         in2="result6"
+         id="feDisplacementMap35072" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(224,224,224)"
+         id="feFlood35074" />
+      <feComposite
+         result="result2"
+         operator="atop"
+         in2="result4"
+         id="feComposite35076" />
+      <feComposite
+         in="result2"
+         operator="atop"
+         in2="SourceGraphic"
+         result="result9"
+         id="feComposite35078" />
+      <feBlend
+         result="fbSourceGraphic"
+         mode="darken"
+         in2="result9"
+         id="feBlend35080" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur35082" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="8"
+         specularConstant="0.8"
+         specularExponent="30"
+         id="feSpecularLighting35086">
+        <feDistantLight
+           elevation="55"
+           azimuth="235"
+           id="feDistantLight35084" />
+      </feSpecularLighting>
+      <feComposite
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in"
+         id="feComposite35088" />
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result2"
+         id="feComposite35090" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text2833"
+       style="font-size:32px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2835)" />
+    <path
+       style="opacity:0.954323;fill:#ffd42a;fill-opacity:0.16129;stroke-width:11.7731;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.93381;paint-order:stroke fill markers"
+       d="m 274.8524,438.67077 c -20.41625,-3.70625 -29.27238,-12.96434 -27.92649,-29.19401 0.78047,-9.4115 6.0531,-17.47527 15.54428,-23.77287 13.30072,-8.82532 28.70068,-11.65728 69.56119,-12.79188 l 30.00891,-0.83328 -0.59666,15.6685 c -0.4777,12.54425 -1.22536,16.87114 -3.74965,21.69991 -6.52014,12.4725 -20.64408,22.25649 -38.99253,27.01106 -10.80653,2.80025 -34.12906,3.97708 -43.84905,2.21257 z"
+       id="path38727" />
+    
+  </g>
+</svg>
